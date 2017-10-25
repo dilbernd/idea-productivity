@@ -54,13 +54,9 @@ Place/Delete (Mouse):
 
 # Keystrokes – Expand/Shrink Selection
 
-🍎 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌥⬆︎
-🚪/🐧  &nbsp;&nbsp;&nbsp;&nbsp; ⌥⬇︎
+🍎 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌥⬆︎ / ⌥⬇︎
 
-## Recently Edited Files
-
-🍎 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌃W
-🚪/🐧  &nbsp;&nbsp;&nbsp;&nbsp; ⌃⇧W
+🚪/🐧 &nbsp;&nbsp;&nbsp;&nbsp; ⌃W / ⌃⇧W
 
 <hr>
 
@@ -217,6 +213,32 @@ Place/Delete (Mouse):
 - Just disable it!
   - Depending on situation with comment, append reasoning
   - Really important to stay at 0 warnings: “Broken window code policing”
+
+---
+
+# Completions, Pre & Post
+
+## Live Templates
+
+`*` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;abbreviation&gt; + ⇥
+
+## Postfix Completions
+
+`*` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;expr + dot&gt; + ⇥
+
+---
+
+# Language Injection
+
+## Automatically, Ad-Hoc
+
+NTH but a crapshoot
+
+## `// language=LanguageName`
+
+- e.g. Oracle, PostgreSQL, Groovy, HQL, CSS, …
+- also Annotations
+- check Settings
 
 ---
 
