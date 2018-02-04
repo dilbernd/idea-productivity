@@ -40,7 +40,7 @@ Go back to first placed (Keyboard):
 `*` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⎋
 
 Place/Delete (Mouse):
-`*` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌥(click)
+`*` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌥⇧(click)
 
 ---
 
