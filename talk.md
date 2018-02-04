@@ -7,6 +7,7 @@ $size: 16:9
 ![200%](title.jpg)
 
 https://github.com/dilbernd/idea-productivity
+Bernd Haug – :envelope: [haug@berndhaug.net](mailto:haug@berndhaug.net) – :bird: [@itbeha](https://www.twitter.com/itbeha)
 </center>
 
 ---
