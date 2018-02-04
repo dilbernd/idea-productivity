@@ -2,7 +2,12 @@
 $size: 16:9
 -->
 
-![500%](title.jpg)
+<center>
+
+![200%](title.jpg)
+
+https://github.com/dilbernd/idea-productivity
+</center>
 
 ---
 
