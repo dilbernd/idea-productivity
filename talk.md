@@ -27,8 +27,8 @@ $size: 16:9
 ## Keystroke
 
 Place (Keyboard):
-🍎 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌥,⌥(hold)+⬆︎/⬇︎
-🚪/🐧  &nbsp;&nbsp;&nbsp;&nbsp; ⌃, ⌃(hold)+⬆︎/⬇︎
+:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌥,⌥(hold)+⬆︎/⬇︎
+:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌃, ⌃(hold)+⬆︎/⬇︎
 
 Go back to first placed (Keyboard):
 `*` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⎋
@@ -54,9 +54,9 @@ Place/Delete (Mouse):
 
 # Keystrokes – Expand/Shrink Selection
 
-🍎 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌥⬆︎ / ⌥⬇︎
+:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌥⬆︎ / ⌥⬇︎
 
-🚪/🐧 &nbsp;&nbsp;&nbsp;&nbsp; ⌃W / ⌃⇧W
+:penguin:/:door: &nbsp;&nbsp;&nbsp;&nbsp; ⌃W / ⌃⇧W
 
 <hr>
 
@@ -78,13 +78,13 @@ Place/Delete (Mouse):
 
 ## Recent Files
 
-🍎 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘E
-🚪/🐧  &nbsp;&nbsp;&nbsp;&nbsp; ⌃E
+:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘E
+:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌃E
 
 ## Recently Edited Files
 
-🍎 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘⇧E
-🚪/🐧  &nbsp;&nbsp;&nbsp;&nbsp; ⌃⇧E
+:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘⇧E
+:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌃⇧E
 
 ---
 
@@ -96,8 +96,8 @@ Place/Delete (Mouse):
 
 - Hadi Hariri actually also recommends getting rid of the Status Bar – couldn’t do it
 - Get the tool buttons back temporarily:
-🍎 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘, ⌘ (hold)
-🚪/🐧  &nbsp;&nbsp;&nbsp;&nbsp; ⌥, ⌥ (hold)
+:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘, ⌘ (hold)
+:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌥, ⌥ (hold)
 
 ---
 
@@ -110,16 +110,16 @@ Place/Delete (Mouse):
 - In editor, back to last tool
 `*` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [F12]
 - Hide/unhide all tools
-🍎 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘⇧[F12]
-🚪/🐧  &nbsp;&nbsp;&nbsp;&nbsp; ⌃⇧[F12]
+:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘⇧[F12]
+:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌃⇧[F12]
 
 ---
 
 # Clean view – Open on Demand – Keystrokes
 
 - Just learn main tools:
-🍎 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘[number]
-🚪/🐧  &nbsp;&nbsp;&nbsp;&nbsp; ⌥[number]
+:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘[number]
+:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌥[number]
 - 1 = Project view
 - 7 = Structure
 - 8 = Hierarchy
@@ -136,8 +136,8 @@ Place/Delete (Mouse):
 - Contextual navigation; super useful!
 - Lots of further actions available directly
 
-🍎 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘⬆︎
-🚪/🐧  &nbsp;&nbsp;&nbsp;&nbsp; ⌥[Home]
+:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘⬆︎
+:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌥[Home]
 
 ---
 
@@ -147,17 +147,17 @@ Place/Delete (Mouse):
 
 # Search Everything
 - Search Classes
-🍎 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘O
-🚪/🐧  &nbsp;&nbsp;&nbsp;&nbsp; ⌃N
-- Search Files 
-🍎 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘⇧O
-🚪/🐧  &nbsp;&nbsp;&nbsp;&nbsp; ⌃⇧N
+:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘O
+:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌃N
+- Search Files
+:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘⇧O
+:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌃⇧N
 - Search Symbols (e.g. methods and functions)
-🍎 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘⌥O
-🚪/🐧  &nbsp;&nbsp;&nbsp;&nbsp; ⌃⌥⇧N
+:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘⌥O
+:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌃⌥⇧N
 - Search Actions
-🍎 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘⇧A
-🚪/🐧  &nbsp;&nbsp;&nbsp;&nbsp; ⌃⇧A
+:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘⇧A
+:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌃⇧A
 - Search Everywhere (literally)
 `*` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⇧, ⇧
 
@@ -170,8 +170,8 @@ Place/Delete (Mouse):
 
 ## Search in Path
 
-🍎 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘⇧F
-🚪/🐧  &nbsp;&nbsp;&nbsp;&nbsp; ⌃⇧F
+:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘⇧F
+:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌃⇧F
 
 ## Usage Search
 
@@ -191,8 +191,8 @@ Place/Delete (Mouse):
   - Also works for files, change lists, packages…
 - Extract variable, field, method, constant… *loves* expand selection
 - Underused: Change Signature
-🍎 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘[F6]
-🚪/🐧  &nbsp;&nbsp;&nbsp;&nbsp; ⌃[F6]
+:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘[F6]
+:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌃[F6]
   - also very consistent! Works e.g. for DB Tables Schema
 
 ---
