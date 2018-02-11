@@ -179,6 +179,11 @@ Place/Delete (Mouse):
 :apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘⇧F
 :penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌃⇧F
 
+## Select Occurrences of Word Under Cursor (One By One)
+
+:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌃G
+:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌥J
+
 ## Usage Search
 
 `*` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌥[F7]
@@ -262,12 +267,15 @@ NTH but a crapshoot
   - Great fun!
 - *_Regex Plugin_*: Nicer than the more-used regex test plugin
   - advanced uses like testing group match / replace
+- *_.ignore_*: Authoring and inspections for VCS ignore files
+- *_Presentation Assistant_*: Shows shortcuts while using IDEA
 
 ---
 
 # Former Plugins!
 
 - JVM memory view now core debugger feature – for debugging leaks, building mental model
+- Stream debugger now core debugger feature
 
 ---
 
