@@ -30,16 +30,17 @@ Bernd Haug – :envelope: [haug@berndhaug.net](mailto:haug@berndhaug.net) – :b
 
 ![](kbd-multicaret.png)
 
-## Keystroke
+Cursor placement (Keyboard):
 
-Place (Keyboard):
-:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌥,⌥(hold)+⬆︎/⬇︎
+:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌥,⌥(hold)+⬆︎/⬇
 :penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌃, ⌃(hold)+⬆︎/⬇︎
 
-Go back to first placed (Keyboard):
+Go back to first placed only:
+
 `*` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⎋
 
-Place/Delete (Mouse):
+Cursor placement (Mouse):
+
 `*` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌥⇧(click)
 
 ---
@@ -58,7 +59,7 @@ Place/Delete (Mouse):
 
 ---
 
-# Keystrokes – Expand/Shrink Selection
+# Keystrokes – Expand/Shrink Selection
 
 :apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌥⬆︎ / ⌥⬇︎
 
@@ -235,7 +236,7 @@ Place/Delete (Mouse):
 
 ## Postfix Completions
 
-`*` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;expr + dot&gt; + ⇥
+`*` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;expr + dot + abbreviation&gt; + ⇥
 
 ---
 
