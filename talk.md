@@ -1,23 +1,14 @@
-<!--
-$size: 16:9
--->
+build-lists: true
+footer: Bernd Haug – :envelope: [haug@berndhaug.net](mailto:haug@berndhaug.net)
+slidenumbers: true
 
-<center>
+[.footer: ]
+[.slidenumbers: false]
 
-![200%](title.jpg)
+![inline](title.jpg)
 
-https://github.com/dilbernd/idea-productivity
+[https://github.com/dilbernd/idea-productivity](https://github.com/dilbernd/idea-productivity)
 Bernd Haug – :envelope: [haug@berndhaug.net](mailto:haug@berndhaug.net) – :bird: [@itbeha](https://www.twitter.com/itbeha)
-</center>
-
----
-
-# Caveat
-## • I’m not some sort of IDEA deity
-## • Most of those are just applications of
-### – Talks by [@hhariri](https://www.twitter.com/hhariri) (follow highly recommended!)
-### – Reading the startup “Tip of the Day” and the [IDEA Twitter](https://twitter.com/intellijidea)
-### – The builtin High Score (Dropdown: Help > Productivity Guide)
 
 ---
 
@@ -26,49 +17,58 @@ Bernd Haug – :envelope: [haug@berndhaug.net](mailto:haug@berndhaug.net) – :b
 ---
 
 # Settings – Multi-Caret
-<br>
 
-![](kbd-multicaret.png)
+![inline](kbd-multicaret.png)
 
 Cursor placement (Keyboard):
 
-:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌥,⌥(hold)+⬆︎/⬇
-:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌃, ⌃(hold)+⬆︎/⬇︎
+| :apple:          | ⌥,⌥(hold)+⬆︎/⬇ |
+|------------------|--------------------|
+| :penguin:/:door: | Ctrl, Ctrl (hold) + ⬆︎/⬇︎ |
 
-Go back to first placed only:
+---
 
-`*` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⎋
+# Settings – Multi-Caret (cont'd)
 
-Cursor placement (Mouse):
+|||
+|---|---|
+| Cursor placement (Mouse) | ⌥⇧(click) |
+| Remove all but first-placed | ⎋ |
 
-`*` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌥⇧(click)
+(All Platforms)
 
 ---
 
 # Settings – Humps!
 
-![](mouse-humps.png)
-![](keyboard-humps.png)
+![inline](mouse-humps.png)
+![inline](keyboard-humps.png)
 
 ---
 
 # Settings – Surround Selection
-<br>
 
-![](surround-parenish.png)
+Surround selection when typing anything quoty or parenish.
+
+![inline](surround-parenish.png)
+
+Affects whatever has surrounding-nature in the current language, e.g.
+
+```
+([{`'"<
+```
 
 ---
 
 # Keystrokes – Expand/Shrink Selection
 
-:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌥⬆︎ / ⌥⬇︎
-
-:penguin:/:door: &nbsp;&nbsp;&nbsp;&nbsp; ⌃W / ⌃⇧W
-
-<hr>
-
 - Navigation! – “Pareditish”
 - Goes well with surround quotes/parens!
+
+| Action | :apple: | :penguin:/:door: |
+|---|:---:|:---:|
+| Expand selection | ⌥⬆︎ | Ctrl + W |
+| Shrink selection | ⌥⬇︎| Ctrl + Shift + W |
 
 ---
 
@@ -77,74 +77,74 @@ Cursor placement (Mouse):
 ---
 
 # Settings – No Tabs
-![50%](./untabify.png)
+
+![inline](./untabify.png)
 
 ---
 
 # Tab Replacement
 
-## Recent Files
-
-:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘E
-:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌃E
-
-## Recently Edited Files
-
-:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘⇧E
-:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌃⇧E
+| Action | :apple: | :penguin:/:door: |
+|---|:---:|:---:|
+| Recent Files | ⌘E | Ctrl + E |
+| Recently Edited Files | ⌘⇧E | Ctrl + Shift + E |
 
 ---
 
 # View dropdown – No Deadweight
 
-![](./view_menu.png)
+![inline](./view_menu.png)
 
-<hr>
-
-- Hadi Hariri actually also recommends getting rid of the Status Bar – couldn’t do it
-- Get the tool buttons back temporarily:
-:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘, ⌘ (hold)
-:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌥, ⌥ (hold)
+- No Toolbar
+- No Tool Buttons
+- No Navbar
+- Hadi Hariri says: hide the Status Bar – not for me!
 
 ---
 
-# Clean view – Manage Tool Windows Without Mouse
+# Get the tool buttons back temporarily
 
-- In tool, back to last editor
-`*` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⎋
-- Hide current/last tool:
-`*` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⇧⎋
-- In editor, back to last tool
-`*` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [F12]
-- Hide/unhide all tools
-:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘⇧[F12]
-:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌃⇧[F12]
+| :apple: | ⌘, ⌘ (hold) |
+|---|---|
+| :penguin:/:door: | Alt, Alt (hold) |
 
 ---
 
-# Clean view – Open on Demand – Keystrokes
+# Clean view – Manage Tool Windows Without Mouse
 
-- Just learn main tools:
-:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘[number]
-:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌥[number]
-- 1 = Project view
-- 7 = Structure
-- 8 = Hierarchy
-- 9 = Version Control
-
-(Numbers visible on buttons!)
+| Action | :apple: | :penguin:/:door: |
+|---|:---:|:---:|
+| back to editor | ⎋ | ⎋ |
+| Hide current/last tool | ⇧⎋ | Shift + ⎋ |
+| In editor, back to last tool | [F12] | [F12] |
+| Hide/unhide all tools | ⌘⇧[F12] | Ctrl + Shift + [F12] |
 
 ---
+
+# Clean view – Open on Demand – Keystrokes
+
+| :apple: | ⌘[number] |
+|---|---|
+| :penguin:/:door: | Alt + [number] |
+
+- Just learn the main tools’ numbers by heart!
+- Criminally Underused: Bookmarks/Breakpoints (**2**), TODOs (**6**),
+  Structure (**7**), Type Hierarchy (**8**)
+- If you only use Project/Debug/VCS, *you’re cheating yourself!*
+
+---
+[.build-lists: false]
 
 # Project Tool (#1) Alternative
 
-![](navbar.png)
+![inline](navbar.png)
 
 - Contextual navigation; super useful!
 - Lots of further actions available directly
 
-:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘⬆︎
-:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌥[Home]
+| :apple: | ⌘⬆︎|
+|---|---|
+| :penguin:/:door: | Alt + [Home] |
 
 ---
 
@@ -152,42 +152,50 @@ Cursor placement (Mouse):
 
 ---
 
-# Search Everything
-- Search Classes
-:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘O
-:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌃N
-- Search Files
-:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘⇧O
-:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌃⇧N
-- Search Symbols (e.g. methods and functions)
-:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘⌥O
-:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌃⌥⇧N
-- Search Actions
-:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘⇧A
-:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌃⇧A
-- Search Everywhere (literally)
-`*` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⇧, ⇧
+# Navigate Content & IDE
+
+| Search… | :apple: | :penguin:/:door: |
+|---|:---:|:---:|
+| Classes! | ⌘O | Ctrl + N |
+| Files! | ⌘⇧O | Ctrl + Shift + N |
+| Symbols! (methods…) | ⌘⌥O | Ctrl + Alt + Shift + N |
+| Actions! | ⌘⇧A | Ctrl + Shift + A |
+| **_Absolutely Everywhere!!!_** | ⇧, ⇧ | Shift, Shift |
 
 ---
 
-# Text & Usage Search
+# Navigate declarations & definitions
 
-- Not underused, but underused! `;)`
+| Go to… | :apple: | :penguin:/:door: |
+|---|:---:|:---:|
+| _**declaration (on usage) / usage(s) (on declaration)**_ | ⌘B | Ctrl + Alt + B |
+| _**implementation(s)**_ | ⌘⌥B | Ctrl + Alt + B |
+| _**same symbol in parent type**_ | ⌘U | Ctrl + U |
+| _**select elements in structure**_ | ⌘[F12] | Ctrl + [F12] |
+
+---
+
+[.build-lists: false]
+
+# Search in Path
+
+- Not _under_used, but under_used_!
 - Check the options, esp. scope!
 
-## Search in Path
+|:apple:          | ⌘⇧F |
+|---|---|
+|:penguin:/:door: | Ctrl + Shift + F |
 
-:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘⇧F
-:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌃⇧F
+---
 
-## Select Occurrences of Word Under Cursor (One By One)
+[.build-lists: false]
 
-:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌃G
-:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌥J
+# Usage Search
 
-## Usage Search
-
-`*` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌥[F7]
+- Can into scope too!
+- Especially useful and underused: Have IDEA open new tabs for each
+  search (default is replace last search)
+- All platforms: ⌥[F7]
 
 ---
 
@@ -195,35 +203,23 @@ Cursor placement (Mouse):
 
 ---
 
-# Refactoring, Keyboard
-
-## So, So Many Things…A Few Notes:
+# Refactoring: So, so much too much to cover
 
 - Probably most used is rename (⇧[F6]): highly consistent!
   - Also works for files, change lists, packages…
 - Extract variable, field, method, constant… *loves* expand selection
-- Underused: Change Signature
-:apple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌘[F6]
-:penguin:/:door:  &nbsp;&nbsp;&nbsp;&nbsp; ⌃[F6]
+- Underused: Change Signature (:apple:: ⌘[F6] // :penguin:&:door:: Ctrl + [F6])
   - also very consistent! Works e.g. for DB Tables Schema
 
 ---
 
 # Analyze!
 
-## Check the Available Inspections
-
-## Can Include Some External Tools!
-
-## A Lot Support Quick Fixes
-
-## Underused: Fix all in File!
-
-## Underused: “Disable Inspection for …”
-
-- Sometimes “fixing” an inspection results in worse code!
-- Just disable it!
-  - Depending on situation with comment, append reasoning
+- Check out what’s available available inspections
+  - Can integrate some external tools!
+  - A lot support quick fixes; underused: “fix all … in file”
+- When “fixing” a warning results in worse code, just disable the occurrence!
+  - Depending on situation “with comment” + append reasoning
   - Really important to stay at 0 warnings: “Broken window code policing”
 
 ---
@@ -232,29 +228,50 @@ Cursor placement (Mouse):
 
 ## Live Templates
 
-`*` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;abbreviation&gt; + ⇥
+`*` <abbreviation> + ⇥
 
 ## Postfix Completions
 
-`*` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;expr + dot + abbreviation&gt; + ⇥
+`*` <expr + . + abbreviation> + ⇥
 
 ---
 
 # Language Injection
 
-## Automatically, Ad-Hoc
+## Automatically, Ad-Hoc Using Heuristics
 
-NTH but a crapshoot
+NTH, but a crapshoot
 
-## `// language=LanguageName`
+## `// language=LanguageName` (Above String)
 
-- e.g. Oracle, PostgreSQL, Groovy, HQL, CSS, …
-- also Annotations
-- check Settings
+- E.g. Oracle, PostgreSQL, Groovy, XML, HQL, HTML, CSS, …
+- Also as Annotations – check Settings
+- Checked-in documentation that triggers IDE magic!
 
 ---
 
 # V. Other Stuff
+
+---
+
+# Accepting Autocompletions
+
+Everybody uses ⏎ to insert the completion, but there’s also:
+
+| Complete… | Keystroke |
+|---|---|
+| …and start autocompleting again on the accepted option: | ⌃. |
+| …and overwrite until end of token | ⇥ |
+
+---
+
+# Nice Little Miscellania
+
+| What | :apple: | :penguin:/:door: |
+|---|---|---|
+| progressively select word under cursor | ⌃G | Alt + J |
+| keyword (throws, implements…) impact | ⌘⇧[F7] | |
+| fold arbitrary selection | ⌘. | |
 
 ---
 
@@ -266,6 +283,11 @@ NTH but a crapshoot
   - you should use Kotlin
 - *_Key Promoter X_*: Productivity Guide as a nag, and a scold
   - Great fun!
+
+---
+
+# More Plugins!
+
 - *_Regex Plugin_*: Nicer than the more-used regex test plugin
   - advanced uses like testing group match / replace
 - *_.ignore_*: Authoring and inspections for VCS ignore files
@@ -275,7 +297,7 @@ NTH but a crapshoot
 
 # Former Plugins!
 
-- JVM memory view now core debugger feature – for debugging leaks, building mental model
+- JVM memory view now core debugger feature – great for debugging leaks, building mental model
 - Stream debugger now core debugger feature
 
 ---
@@ -288,6 +310,14 @@ NTH but a crapshoot
 
 ---
 
+## More Great Information Can Be Found Through…
+
+* Following links from [@hhariri](https://www.twitter.com/hhariri) (follow highly recommended!)
+* Reading the startup “Tip of the Day” and the [IDEA Twitter](https://twitter.com/intellijidea)
+* The built-in High Score (Dropdown: Help > Productivity Guide)
+
+---
+
 # VI. Speaker’s Eccentricities
 
 ---
@@ -295,8 +325,8 @@ NTH but a crapshoot
 # Take Rat Poison
 
 ## Just turn your mouse on its back, at arm’s length
-### for a day
-### occasionally
+### just for a day
+#### occasionally
 
 ---
 
@@ -309,3 +339,20 @@ NTH but a crapshoot
 # How About “All the Code”?
 
 ![35%](high.png)
+
+---
+
+# “In Eigener Sache”
+
+- I can be hired for dev productivity workshops and consulting
+    - IDEA + Java/Kotlin, Builds (CI/CD), Container Orientation, git
+      Handling, …
+- I’d love to hold this talk at your company!
+    - for free!
+        - (…and then chat about your development pain points :smirk:)
+
+---
+
+### Thank you for your attention!
+
+# Q & A
